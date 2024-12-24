@@ -1,0 +1,16 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/icons">
+        <!-- 暂时注释掉未创建的图标
+        <file>icons/open.png</file>
+        <file>icons/save.png</file>
+        <file>icons/rectangle.png</file>
+        <file>icons/circle.png</file>
+        <file>icons/polygon.png</file>
+        <file>icons/style.png</file>
+        <file>icons/zoom-in.png</file>
+        <file>icons/zoom-out.png</file>
+        <file>icons/reset.png</file>
+        -->
+    </qresource>
+</RCC> 

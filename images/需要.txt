@@ -1,0 +1,10 @@
+    open.png
+    save.png
+    rectangle.png
+    circle.png
+    polygon.png
+    style.png
+    zoom-in.png
+    zoom-out.png
+    reset.png
+    app.ico
